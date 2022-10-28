@@ -1,0 +1,53 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+ max-width: auto;
+ height: 200px;
+ display: flex;
+ margin: 0 auto;
+ margin-right: 0;
+ background-color: #1d3b4d;
+ padding: 0px;
+ overflow: hidden;
+}
+
+.img {
+ max-width: auto;
+ height: 150px;
+ display: flex;
+ margin-left: 0;
+ margin-right: 0;
+ background-color: #1d3b4d;
+ padding: 0px;
+
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    background-color: #1d3b4d;
+
+
+}
+
+.form-group {
+    background-color: #1d3b4d;
+    color: #e6f2f8;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+#email-help {
+    margin: 0;
+}
+.text-muted {
+    color: #b3d8ea;
+}
+.remove-margin{
+    margin:0 !important;
+}
